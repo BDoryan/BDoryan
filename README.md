@@ -1,6 +1,6 @@
 # Doryan BESSIERE - Développeur Full Stack
 
-Salut ! 👋 Je suis Doryan BESSIERE, un développeur full-stack passionné par la création de solutions web innovantes. Mon expertise se situe principalement dans les domaines suivants : PHP, ReactJS, SQL et Python. J'adore résoudre des problèmes complexes et créer des applications qui offrent une expérience utilisateur exceptionnelle.
+Salut ! 👋 Je suis Doryan BESSIERE, un développeur full-stack de 20 ans passionné par la création de solutions web innovantes. Mon expertise se situe principalement dans les domaines suivants : PHP, ReactJS, SQL et Python. J'adore résoudre des problèmes complexes et créer des applications qui offrent une expérience utilisateur exceptionnelle.
 
 ## Compétences
 
