@@ -5,7 +5,7 @@ Salut ! 👋 Je suis Doryan BESSIERE, un développeur full-stack passionné par 
 ## Compétences
 
 - **Langages de programmation :** PHP, JavaScript (ReactJS), SQL, Python
-- **Technologies :** HTML, CSS, Bootstrap, TailwindCSS, jQuery, Sequelize
+- **Technologies :** HTML, CSS, Bootstrap, Tailwind, jQuery, Sequelize
 - **Base de données :** MySQL, 
 - **Outils :** Git
 - **Frameworks :** Next.js
