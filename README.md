@@ -12,6 +12,7 @@ Salut ! 👋 Je suis Doryan BESSIERE, un développeur full-stack de 20 ans passi
 
 ## Projets Notables
 
+- 💻​ [DodoCMS](https://github.com/BDoryan/dodocms-mvc) - [PHP] - DodoCMS est un CMS que j'ai décidé de créer afin de simplifier la création de site internet avec une interface d'administration.
 - 🌐 [BackdoorGame](https://github.com/BDoryan/BackdoorGame) - [Java] - Backdoor est un MOBA (Arène de Bataille Multijoueur en Ligne) se déroulant dans un environnement de bureau simulé, où l'objectif principal est de capturer des zones appelées Proxies en les piratant. 
 - 🚀 [api-codeur](https://github.com/BDoryan/api-codeur.com) - [Next.js] - Bienvenue sur l'API REST de codeur.com - un projet qui avait pour but de faciliter l'interaction avec la plateforme codeur.com grâce à une interface API intuitive. 
 - ⚙️ [PetanqueManager](https://github.com/BDoryan/PetanqueManager) - [Java] -  Le PétanqueManager est une solution logicielle intuitive conçue pour simplifier l'organisation et la gestion de vos concours de pétanque.
