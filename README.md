@@ -10,7 +10,7 @@ Salut ! 👋 Je suis Doryan BESSIERE, un développeur full-stack de 21 ans passi
 - **Outils :** Git
 - **Frameworks :** Next.js et Laravel
 
-## Projets Notables
+## Side projects
 
 - 💻​ [DodoCMS](https://github.com/BDoryan/dodocms-mvc) - [PHP] - DodoCMS  simplifie la création de sites web avec une interface d'administration intuitive, éliminant ainsi le besoin de compétences techniques avancées.
 - 🌐 [BackdoorGame](https://github.com/BDoryan/BackdoorGame) - [Java] - Backdoor est un MOBA (Arène de Bataille Multijoueur en Ligne) se déroulant dans un environnement de bureau simulé, où l'objectif principal est de capturer des zones appelées Proxies en les piratant. 
