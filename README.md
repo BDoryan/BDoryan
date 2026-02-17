@@ -1,110 +1,29 @@
-# Doryan Bessiere — Développeur web full-stack
+# Doryan BESSIERE - Développeur Full Stack
 
-Développeur web full-stack, actuellement en alternance chez **gtl.digital** et à la recherche d’une **alternance pour un Master (2026)**.
-Je conçois et développe des applications web complètes, du front au back, avec une attention particulière à la qualité du code, aux performances et aux bonnes pratiques.
+Salut ! 👋 Je suis Doryan BESSIERE, un développeur full-stack de 22 ans passionné par la création de solutions web innovantes. Mon expertise se situe principalement dans les domaines suivants : PHP, Laravel, ReactJS, SQL et Python. J'adore résoudre des problèmes complexes et créer des applications qui offrent une expérience utilisateur exceptionnelle.
 
-## À propos de moi
+## Compétences
 
-* 22 ans — Montpellier
-* Développement depuis l’âge de 14 ans
-* Expérience en **freelance** et en **agence**
-* Habitué au travail en équipe, à la gestion de plusieurs projets et aux environnements professionnels
+- **Langages de programmation :** HTML, CSS, PHP, JavaScript, SQL et Python
+- **Technologies :** Bootstrap, Tailwind, ReactJS, jQuery et Sequelize
+- **Base de données :** MySQL
+- **Outils :** Git
+- **Frameworks :** Next.js et Laravel
 
-Selon ton CV : développement sur mesure avec React/Next, création de plateformes métiers et maintenance de nombreux sites e-commerce. 
+## Side projects
 
----
-
-## Stack technique
-
-### Langages
-
-* PHP
-* JavaScript / TypeScript
-* Java
-* HTML / CSS
-* SQL
-
-### Frameworks & Librairies
-
-* Laravel
-* React / Next.js
-* Vue.js
-* Bootstrap / Tailwind
-* Sequelize
-
-### Bases de données
-
-* MySQL
-* SQLite
-* Redis
-
-### Outils & Environnement
-
-* Git / GitHub
-* Linux
-* PhpStorm / IntelliJ
-* Figma
-
----
-
-## Expérience
-
-### gtl.digital — Développeur Web (Alternance)
-
-*Sept 2023 – Fév 2026*
-
-* Intégration et développement de **20+ sites vitrines**
-* Création et maintenance de **10+ sites e-commerce (PrestaShop)**
-* Développement d’un **CMS sur mesure**
-* Réalisation de **PWA** (gestion de frais, application d’avis clients)
-* Maintenance, optimisation et gestion de projets en équipe
-
-### Freelance — Développeur Web
-
-*Déc 2022 – Sept 2023*
-
-* Développement sur mesure avec **React, Next.js et Sequelize**
-* Conception de plateformes métiers
-* Création de sites clients (mise en relation, location en ligne, etc.)
-
----
-
-## Projets personnels
-
-* **DodoCMS**
-  PHP — CMS MVC avec interface d’administration pour créer et gérer facilement des sites
-  [https://github.com/BDoryan/dodocms-mvc](https://github.com/BDoryan/dodocms-mvc)
-
-* **BackdoorGame**
-  Java — Jeu type MOBA dans un environnement de bureau simulé
-  [https://github.com/BDoryan/BackdoorGame](https://github.com/BDoryan/BackdoorGame)
-
-* **API Codeur**
-  Next.js — API REST facilitant l’interaction avec la plateforme codeur.com
-  [https://github.com/BDoryan/api-codeur.com](https://github.com/BDoryan/api-codeur.com)
-
-* **PetanqueManager**
-  Java — Application de gestion de tournois de pétanque
-  [https://github.com/BDoryan/PetanqueManager](https://github.com/BDoryan/PetanqueManager)
-
----
-
-## Formation
-
-* **Bachelor Développeur d’application Java** — HETIC (2024–2025)
-* **BTS SIO SLAM** — Lycée Paul Sabatier (2022–2024)
-* **Projet : Master Intelligence Artificielle (2026)**
-
----
-
-## Objectif
-
-Je recherche une **alternance pour un Master** dans un environnement technique stimulant, avec des projets web ou logiciels à fort impact.
-
----
+- 💻​ [DodoCMS](https://github.com/BDoryan/dodocms-mvc) - [PHP] - DodoCMS  simplifie la création de sites web avec une interface d'administration intuitive, éliminant ainsi le besoin de compétences techniques avancées.
+- 🌐 [BackdoorGame](https://github.com/BDoryan/BackdoorGame) - [Java] - Backdoor est un MOBA (Arène de Bataille Multijoueur en Ligne) se déroulant dans un environnement de bureau simulé, où l'objectif principal est de capturer des zones appelées Proxies en les piratant. 
+- 🚀 [api-codeur](https://github.com/BDoryan/api-codeur.com) - [Next.js] - Bienvenue sur l'API REST de codeur.com - un projet qui avait pour but de faciliter l'interaction avec la plateforme codeur.com grâce à une interface API intuitive. 
+- ⚙️ [PetanqueManager](https://github.com/BDoryan/PetanqueManager) - [Java] -  Le PétanqueManager est une solution logicielle intuitive conçue pour simplifier l'organisation et la gestion de vos concours de pétanque.
 
 ## Contact
 
-* Portfolio : [https://www.doryanbessiere.fr](https://www.doryanbessiere.fr)
-* LinkedIn : [https://www.linkedin.com/in/doryan-bessiere-1a0186238/](https://www.linkedin.com/in/doryan-bessiere-1a0186238/)
-* Email : [contact@doryanbessiere.fr](mailto:contact@doryanbessiere.fr)
+Si vous souhaitez discuter de projets passionnants, de collaborations ou simplement échanger des idées, n'hésitez pas à me contacter par e-mail à l'adresse suivante : [contact@doryanbessiere.fr](mailto:contact@doryanbessiere.fr).
+
+## Liens
+
+- [LinkedIn](https://www.linkedin.com/in/doryan-bessiere-1a0186238/)
+- [Portfolio](https://www.doryanbessiere.fr)
+
+Merci de visiter ma page GitHub ! 😊
