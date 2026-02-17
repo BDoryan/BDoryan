@@ -1,4 +1,4 @@
-# Doryan BESSIERE - Développeur Full Stack
+# Doryan BESSIERE - Développeur web full-stack
 
 Bonjour ! Je suis Doryan BESSIERE, développeur full-stack de 22 ans, passionné par la création de solutions web et motivé par l’envie de concevoir des applications utiles et performantes, tout en relevant des défis techniques stimulants.
 
