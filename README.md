@@ -40,8 +40,7 @@ Linux • Figma
 
 ## Contact
 
-📧 contact@doryanbessiere.fr
-+33 6 23 64 79 28
+📧 contact@doryanbessiere.fr | +33 6 23 64 79 28
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/doryanb/  
