@@ -1,6 +1,6 @@
 # Doryan BESSIERE - Full-Stack Web Developer
 
-Hi, I'm Doryan BESSIERE, a 22-year-old full-stack web developer passionate about building useful, scalable, and efficient web applications.
+Hi, I'm Doryan BESSIERE, a 23-year-old full-stack web developer passionate about building useful, scalable, and efficient web applications.
 
 I've been coding since I was 14, and I’m constantly driven by the desire to learn, improve, and take on new technical challenges.
 
